@@ -4,16 +4,16 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Kaiser997">Roger Andres Rubio Mosquera<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
+<h1>Conoceme un poco! 😎</h1>
 
 - 🏫: Soy estudiante de programacion de software
 - 🔭: Mis lenguajes de programacion son Java y Python
 - 🌱: Actualmente me encuentro fortaleciendo mis habilidades en Python, Java y SQL
-- 🤔: Soy una persona que le apasiona aprender cosas nuevas.
+- 🤔 : Soy una persona que le apasiona aprender cosas nuevas
 - ⚡  Me gusta jugar futbol, montar bicicleta y me gusta los videojuegos.
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1 align="center">Contacto 📬</h1>
 <Br>
 <p align="center">
   <!--
@@ -31,7 +31,7 @@
   
 <Br>
 <hr>
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Stack Tecnologico</h3>
 
 - :space_invader:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
